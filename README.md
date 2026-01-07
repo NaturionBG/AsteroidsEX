@@ -1,6 +1,6 @@
-This project uses music from Terraria's Calamity mod: Infernum Mode, Undertale, Base Terraria, as well as random soundeffects from the internet. 
+This project contains music from Terraria's Calamity mod: Infernum Mode, Undertale, Base Terraria, as well as random soundeffects from the internet. 
 
-Characters used are also from Undertale and Terraria's Calamity mod.
+Characters incoporated are also from Undertale and Terraria's Calamity mod.
 
 The Project DOES NOT aim to NOR DOES IT REALLY in any shape or form benefit from characters, sprites, soundeffect etc. used in it. 
 
