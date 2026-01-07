@@ -2,7 +2,7 @@ This project uses music from Terraria's Calamity mod: Infernum Mode, Undertale, 
 
 Characters used are also from Undertale and Terraria's Calamity mod.
 
-The Project DOES NOT aim NOR does it factually financially benefit from characters, sprites and soundeffect used in it. 
+The Project DOES NOT aim to NOR DOES IT REALLY financially benefit from characters, sprites and soundeffect used in it. 
 
 
 Controls are as follows:
